@@ -58,7 +58,7 @@ const teamMembers = [
 // console.log(totExperience);
 // OR
 const totExperience = teamMembers.reduce((acc, curr) => acc + curr.yrsExperience, 0);
-console.log(totExperience);
+// console.log(totExperience);
 
 // Grouping by a property, and totaling it too
 // {Developer: 12, Designer: 4} <-- this is what we want
